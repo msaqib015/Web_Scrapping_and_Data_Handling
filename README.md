@@ -87,5 +87,3 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 > You are free to **share** and **adapt** the material for non-commercial purposes with appropriate attribution. This project is for educational use only. All content scraped from JustWatch is owned by its respective publishers and platforms.
 
 🔗 License: https://creativecommons.org/licenses/by-nc/4.0/
-
----
