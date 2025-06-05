@@ -78,7 +78,6 @@ justwatch\_scraper/
 - Enhance provider-specific filtering (Netflix, Prime, etc.)
 - Enable live scraping with user input (via Streamlit or CLI)
 
----
 
 ## 📜 License
 
