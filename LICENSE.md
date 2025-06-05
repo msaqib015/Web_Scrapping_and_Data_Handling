@@ -1,5 +1,6 @@
 LICENSE
 
+```
 Creative Commons Attribution-NonCommercial 4.0 International
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
@@ -21,3 +22,4 @@ No additional restrictions — You may not apply legal terms or technological me
 
 Disclaimer:  
 All scraped content (e.g., movie titles, images, ratings) belongs to JustWatch and its partners. This project is for academic and personal learning purposes only.
+
